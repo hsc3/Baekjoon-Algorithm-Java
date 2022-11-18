@@ -32,6 +32,6 @@ public class baekjoon_16435 {
         }
 
         System.out.println(L);
-        bufferedReader.close();
+        bufferedReader.close(); 
     }
 }
